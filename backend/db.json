@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Bruno Pedro",
+      "email": "bruno@bruno.com"
+    },
+    {
+      "id": 2,
+      "name": "Alan Zasso",
+      "email": "Allan@bruno.com"
+    },
+    {
+      "name": "Carlos Augusto",
+      "email": "salgueiro@lutador.com",
+      "id": 3
+    }
+  ]
+}
